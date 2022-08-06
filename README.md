@@ -9,5 +9,5 @@ Posiblemente se puedan agregar paquetes de texturas o mods al juego, puedes visi
 
 Por ultimo dejare los links de las librerias con las que se utilizo para hacer el port: [librw Wii U](https://github.com/GaryOderNichts/librw) y [librw PC](https://github.com/aap/librw). Para agregar mods se puede usar la herramienta Randomizer Mod, link: [Randomizer Mod](https://github.com/GTAMadman/GTA-III-Rainbomizer).
 
-##Creditos
+## Creditos
 Creditos a GaryOderNichts por hacer posible el port a Wii U.
