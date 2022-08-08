@@ -8,6 +8,7 @@ El audio está hecho con MSS (usando dlls de GRA original) u OpenAL.
 Posiblemente se puedan agregar paquetes de texturas o mods al juego, puedes visitar este link: [modding](https://github.com/td512/re3)
 
 Tambien dejare la guia de programacion en Wii U de Yawt, la cual explica a detalle, como programar y cuales son las herramientas necesarias para crear aplicaciones o juegos homebrew en Wii U. Link:https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
+
 Y el blog de clownancy donde explica de manera general como portear aplicaciones o juegos de android a Wii U. Link: https://clownacy.wordpress.com/2021/02/12/porting-sonic-cd-2011-to-the-wii-u/
 
 Por ultimo dejare los links de las librerias con las que se utilizo para hacer el port: [librw Wii U](https://github.com/GaryOderNichts/librw) y [librw PC](https://github.com/aap/librw). Para agregar mods se puede usar la herramienta Randomizer Mod, link: [Randomizer Mod](https://github.com/GTAMadman/GTA-III-Rainbomizer).
